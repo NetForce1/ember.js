@@ -38,7 +38,6 @@
     "ember-runtime.controller-proxy": "2.0.0",
     "ember-runtime.action-handler-_actions": "2.0.0",
     "ember-runtime.enumerable-contains": "2.7.0",
-    "ember-runtime.will-merge-mixin": "2.0.0",
     "ember-runtime.frozen-copy": "2.0.0",
     "ember-runtime.freezable-init": "2.0.0",
     "ember-string-utils.fmt": "2.0.0",
